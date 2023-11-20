@@ -1,6 +1,6 @@
 # CRUD-PHP: Sistema de Gerenciamento de Usuários em PHP
 
-#Sobre o Projeto 
+**Sobre o Projeto:**
 <br>
 <br>
 O CRUD-PHP é uma aplicação simples desenvolvida em PHP, utilizando MySQL (XAMPP), que oferece funcionalidades essenciais de um sistema CRUD (Create, Read, Update, Delete) para gerenciamento de usuários.
@@ -14,7 +14,9 @@ O CRUD-PHP é uma aplicação simples desenvolvida em PHP, utilizando MySQL (XAM
 - **Listagem de Usuários:** Visualize uma lista completa de todos os usuários cadastrados de forma organizada.
 - **Remoção de Usuários:** Exclua usuários que não são mais necessários, mantendo a base de dados limpa e eficiente. 
 <br>
-#Instruçoes de Uso
+
+**Instruçoes de Uso:**
+
 <br>
 <br>
 1)Ative o servidor PHP e o mysql(pode ser pelo XAMPP)
